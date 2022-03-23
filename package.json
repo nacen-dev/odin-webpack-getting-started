@@ -4,7 +4,8 @@
   "description": "Following Webpack's guide from Basic Setup to Conclusion [Getting Started](https://webpack.js.org/guides/getting-started/) Section",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "keywords": [],
   "author": "",

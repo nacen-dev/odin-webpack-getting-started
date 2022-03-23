@@ -1,0 +1,19 @@
+{
+  "name": "webpack-getting-started",
+  "version": "1.0.0",
+  "description": "Following Webpack's guide from Basic Setup to Conclusion [Getting Started](https://webpack.js.org/guides/getting-started/) Section",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
